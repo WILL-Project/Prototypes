@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "562855301964",
+    "firebase_url": "https://wordgame-4b019.firebaseio.com",
+    "project_id": "wordgame-4b019",
+    "storage_bucket": "wordgame-4b019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562855301964:android:dd24fa288c21d24e20b5e9",
+        "android_client_info": {
+          "package_name": "com.sbo.jumblingsencance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562855301964-6jgs7cb6bcta8s13eu7fv3fm6ebc7ms1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnuH9mk3v3rQBFpQLeSndRHaf9wWshoc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562855301964-6jgs7cb6bcta8s13eu7fv3fm6ebc7ms1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

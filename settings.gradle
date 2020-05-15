@@ -1,0 +1,2 @@
+rootProject.name='JumblingSencance'
+include ':app'
